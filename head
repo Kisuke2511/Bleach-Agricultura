@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agricultura do Nordeste - A Jornada Espiritual da Terra</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="logo">
+                <h1>⚡ Agricultura Nordestina</h1>
+                <p class="subtitle">A essência do cultivo em terra de Espadas</p>
+            </div>
+            <nav class="navbar">
+                <ul>
+                    <li><a href="#inicio">Início</a></li>
+                    <li><a href="#caracteristicas">Características</a></li>
+                    <li><a href="#cultura">Cultura</a></li>
+                    <li><a href="#biodiversidade">Biodiversidade</a></li>
+                    <li><a href="#agropecuaria">Agropecuária</a></li>
+                    <li><a href="#contato">Contato</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="inicio" class="hero">
+        <div class="hero-content">
+            <h1>Bem-vindo à Jornada pela Agricultura Nordestina</h1>
+            <p>Assim como os Shinigami protegem o equilíbrio do universo espiritual, os agricultores nordestinos mantêm viva a tradição e a resistência em uma das regiões mais desafiadoras do Brasil.</p>
+            <p class="anime-reference">"Em cada seco do sertão, existe uma força de vontade que transcende os limites da natureza" - Como o Bankai que revela o verdadeiro poder.</p>
+        </div>
+    </section>
+
+    <section id="caracteristicas" class="section características">
+        <div class="container">
+            <h2>Características Únicas da Agricultura Nordestina</h2>
+            <p class="intro-text">O Nordeste é uma região com características tão marcantes quanto a espiritualidade em Bleach.</p>
+            
+            <div class="cards-grid">
+                <div class="card">
+                    <div class="card-icon">☀️</div>
+                    <h3>Clima Semiárido</h3>
+                    <p><strong>Diferença Principal:</strong> Enquanto o Sul recebe chuvas abundantes, o Nordeste enfrenta períodos de seca prolongada. É como a diferença entre um Shinigami normal e um com Bankai - o desafio requer adaptação!</p>
+                    <p><strong>Peculiaridade:</strong> Temperaturas elevadas (30-40°C) e chuvas concentradas (junho a agosto).</p>
+                </div>
+                
+                <div class="card">
+                    <div class="card-icon">🌾</div>
+                    <h3>Solo Especial</h3>
+                    <p><strong>Diferença Principal:</strong> Solos mais arenosos e rasos em relação aos solos férteis do Centro-Oeste.</p>
+                    <p><strong>Adaptação:</strong> Os agricultores usam técnicas tradicionais de conservação de água e proteção do solo - uma verdadeira "Luta Defensiva" contra a degradação.</p>
+                </div>
+                
+                <div class="card">
+                    <div class="card-icon">💧</div>
+                    <h3>Gestão de Água</h3>
+                    <p><strong>Desafio Nordestino:</strong> A água é um recurso precioso. Técnicas como irrigação por gotejamento e açudes são essenciais.</p>
+                    <p><strong>Comparação:</strong> No Sul, culturas como soja crescem com chuvas regulares. No Nordeste, é necessário "canalizar" a água como um Shinigami canaliza seu Reiatsu!</p>
+                </div>
+                
+                <div class="card">
+                    <div class="card-icon">🏜️</div>
+                    <h3>O Sertão Árido</h3>
+                    <p><strong>Peculiaridade Geográfica:</strong> Uma vasta região seca que cobre grande parte do interior nordestino.</p>
+                    <p><strong>Cultura:</strong> Plantas resistentes como mandacaru, xique-xique e palma. Criação de cabras e ovelhas adaptadas.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="cultura" class="section cultura">
+        <div class="container">
+            <h2>Cultura e Tradições Agrícolas</h2>
+            <p class="intro-text">A cultura nordestina é tão rica quanto o universo de Bleach - com histórias, valores e sabedoria transmitida por gerações.</p>
+            
+            <div class="culture-content">
+                <div class="culture-item">
+                    <h3>🎭 Festas Populares Ligadas à Agricultura</h3>
+                    <ul>
+                        <li><strong>Festa de Santo Antônio (junho):</strong> Celebração do santo padroeiro dos agricultores</li>
+                        <li><strong>Festa de São João:</strong> Celebração da colheita e fertilidade (como um ritual Shinigami!)</li>
+                        <li><strong>Festa de São Pedro:</strong> Honra aos pescadores e cultivadores de água</li>
+                    </ul>
+                </div>
+                
+                <div class="culture-item">
+                    <h3>🎵 Arte e Expressão</h3>
+                    <ul>
+                        <li><strong>Cordel:</strong> Poesia narrativa que conta histórias de retirantes e colheitas</li>
+                        <li><strong>Forró:</strong> Música tradicional que celebra a vida agrícola</li>
+                        <li><strong>Artesanato:</strong> Trabalhos em cerâmica e tecelagem com motivos da natureza</li>
+                    </ul>
+                </div>
+                
+                <div class="culture-item">
+                    <h3>📖 Sabedoria Tradicional</h3>
+                    <p>"Os agricultores nordestinos possuem um conhecimento ancestral sobre as estações, o solo e as plantas - é como o conhecimento ancestral dos Capitães Shinigami sobre o Reiatsu. Essa sabedoria, passada de pai para filho, é o verdadeiro tesouro da região."</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="biodiversidade" class="section biodiversidade">
+        <div class="container">
+            <h2>Fauna e Flora do Nordeste</h2>
+            <p class="intro-text">A biodiversidade nordestina é uma manifestação da resistência e adaptação - valores que Ichigo bem conhece!</p>
+            
+            <div class="tabs">
+                <button class="tab-btn active" onclick="openTab(event, 'flora')">🌿 Flora</button>
+                <button class="tab-btn" onclick="openTab(event, 'fauna')">🦅 Fauna</button>
+            </div>
+            
+            <div id="flora" class="tab-content active">
+                <h3>Plantas Características do Nordeste</h3>
+                <div class="biodiversity-grid">
+                    <div class="bio-card">
+                        <h4>Mandacaru</h4>
+                        <p>🌵 Um cacto imponente do sertão, símbolo de resistência</p>
+                        <p><strong>Uso:</strong> Fornece alimento para animais em períodos de seca. Como um Shinigami que sustenta sua força mesmo em tempos difíceis!</p>
+                    </div>
+                    <div class="bio-card">
+                        <h4>Palma Forrageira</h4>
+                        <p>🍃 Planta suculenta adaptada ao clima semiárido</p>
+                        <p><strong>Uso:</strong> Alimento principal para gado em épocas secas. Base da pecuária nordestina.</p>
+                    </div>
+                    <div class="bio-card">
+                        <h4>Babaçu</h4>
+                        <p>🥥 Palmeira com múltiplos usos</p>
+                        <p><strong>Uso:</strong> Óleo, fibra, alimento. Multiverso de aplicações em uma única planta!</p>
+                    </div>
+                    <div class="bio-card">
+                        <h4>Feijão e Milho</h4>
+                        <p>🌽 Cultivos tradicionais ancestrais</p>
+                        <p><strong>Significado:</strong> Base da alimentação nordestina há séculos. Resistência genética a secas.</p>
+                    </div>
+                    <div class="bio-card">
+                        <h4>Açaí e Tucupi</h4>
+                        <p>🍇 Produtos da Amazônia Nordestina</p>
+                        <p><strong>Uso:</strong> Alimento nutritivo e bebida tradicional. Ganho econômico crescente.</p>
+                    </div>
+                    <div class="bio-card">
+                        <h4>Caju</h4>
+                        <p>🍎 Fruta icônica nordestina</p>
+                        <p><strong>Uso:</strong> Suco, polpa, castanha. Exportação internacional. A força do Nordeste no mundo!</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div id="fauna" class="tab-content">
+                <h3>Animais da Região Nordestina</h3>
+                <div class="biodiversity-grid">
+                    <div class="bio-card">
+                        <h4>Cabra e Ovelha</h4>
+                        <p>🐐 Adaptadas ao semiárido</p>
+                        <p><strong>Importância:</strong> Pecuária principal do Nordeste. Carnes, leites e couros.</p>
+                    </div>
+                    <div class="bio-card">
+                        <h4>Gado Zebu</h4>
+                        <p>🐄 Raça resistente ao calor</p>
+                        <p><strong>Adaptação:</strong> Introduzida especialmente para o clima tropical seco.</p>
+                    </div>
+                    <div class="bio-card">
+                        <h4>Ema</h4>
+                        <p>🦅 Ave símbolo da caatinga</p>
+                        <p><strong>Habitat:</strong> Corredora rápida, adaptada ao terreno árido.</p>
+                    </div>
+                    <div class="bio-card">
+                        <h4>Onça-Parda</h4>
+                        <p>🐆 Predador em extinção</p>
+                        <p><strong>Status:</strong> Espécie ameaçada. Preservação é vital para o equilíbrio.</p>
+                    </div>
+                    <div class="bio-card">
+                        <h4>Tatu</h4>
+                        <p>🦁 Pequeno mamífero escavador</p>
+                        <p><strong>Habitat:</strong> Perfura o solo da caatinga em busca de alimento.</p>
+                    </div>
+                    <div class="bio-card">
+                        <h4>Sapo Cururu</h4>
+                        <p>🐸 Anfíbio especial do sertão</p>
+                        <p><strong>Característica:</strong> Canto noturno que marca a chegada da chuva - oracle da natureza!</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="agropecuaria" class="section agropecuaria">
+        <div class="container">
+            <h2>Agropecuária Nordestina: O Bankai do Sertão</h2>
+            <p class="intro-text">Se a agricultura é a primeira forma de luta, a agropecuária é seu Bankai - o poder completo e integrado!</p>
+            
+            <div class="agro-content">
+                <div class="agro-box">
+                    <h3>🌾 Agricultura</h3>
+                    <p><strong>Principais Culturas:</strong></p>
+                    <ul>
+                        <li>Algodão - Histórico econômico importante</li>
+                        <li>Cana-de-açúcar - Produção de açúcar e álcool</li>
+                        <li>Cacau - Nas regiões úmidas (Bahia)</li>
+                        <li>Frutas tropicais - Melão, melancia, abacaxi</li>
+                        <li>Feijão e milho - Culturas de subsistência</li>
+                    </ul>
+                </div>
+                
+                <div class="agro-box">
+                    <h3>🐄 Pecuária</h3>
+                    <p><strong>Destaques Regionais:</strong></p>
+                    <ul>
+                        <li>Gado de Corte - Zebu e mestiços resistentes</li>
+                        <li>Cabras e Ovelhas - Especialmente adaptadas ao sertão</li>
+                        <li>Produção de Leite - Crescimento significativo</li>
+                        <li>Piscicultura - Criação de peixe em açudes</li>
+                    </ul>
+                </div>
+                
+                <div class="agro-box">
+                    <h3>🌊 Desafios Principais</h3>
+                    <ul>
+                        <li><strong>Seca:</strong> Períodos prolongados reduzem produtividade</li>
+                        <li><strong>Mercado:</strong> Acesso limitado a tecnologias modernas</li>
+                        <li><strong>Êxodo Rural:</strong> Migração para centros urbanos</li>
+                        <li><strong>Mudanças Climáticas:</strong> Padrões imprevisíveis de chuva</li>
+                    </ul>
+                </div>
+                
+                <div class="agro-box">
+                    <h3>✨ Oportunidades</h3>
+                    <ul>
+                        <li><strong>Irrigação Moderna:</strong> Tecnologia de ponta em produção</li>
+                        <li><strong>Agro-Ecoturismo:</strong> Turismo rural e vivências autênticas</li>
+                        <li><strong>Produtos Orgânicos:</strong> Crescimento da demanda global</li>
+                        <li><strong>Energia Renovável:</strong> Potencial solar e eólico imenso</li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="comparison-table">
+                <h3>Comparação: Nordeste vs Outras Regiões</h3>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Aspecto</th>
+                            <th>Nordeste</th>
+                            <th>Sul</th>
+                            <th>Centro-Oeste</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><strong>Clima</strong></td>
+                            <td>Semiárido</td>
+                            <td>Subtropical</td>
+                            <td>Tropical</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Pluviosidade</strong></td>
+                            <td>400-800 mm/ano</td>
+                            <td>1500+ mm/ano</td>
+                            <td>1200-1800 mm/ano</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Cultura Principal</strong></td>
+                            <td>Algodão, Cana</td>
+                            <td>Soja, Trigo</td>
+                            <td>Soja, Milho</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Pecuária</strong></td>
+                            <td>Cabra, Ovelha</td>
+                            <td>Bovino, Frango</td>
+                            <td>Bovino, Porco</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Desafio Primário</strong></td>
+                            <td>Gestão de Água</td>
+                            <td>Sustentabilidade</td>
+                            <td>Desmatamento</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </section>
+
+    <section id="contato" class="section contato">
+        <div class="container">
+            <h2>Entre em Contato - Compartilhe Sua História</h2>
+            <p>Assim como em Bleach, onde cada Shinigami tem sua história, cada agricultor nordestino tem a sua. Queremos ouvir!</p>
+            
+            <form class="contact-form">
+                <div class="form-group">
+                    <label for="nome">Nome:</label>
+                    <input type="text" id="nome" name="nome" required>
+                </div>
+                
+                <div class="form-group">
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email" required>
+                </div>
+                
+                <div class="form-group">
+                    <label for="mensagem">Mensagem:</label>
+                    <textarea id="mensagem" name="mensagem" rows="5" required></textarea>
+                </div>
+                
+                <button type="submit" class="submit-btn">Enviar Mensagem</button>
+            </form>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2024 Agricultura do Nordeste - Uma Jornada Espiritual. Inspirado pelos valores de Bleach e pela força do povo nordestino.</p>
+            <p>"A verdadeira força não está em vencer a seca, mas em nunca desistir apesar dela."</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
